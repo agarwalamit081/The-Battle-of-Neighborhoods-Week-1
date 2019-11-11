@@ -21,6 +21,8 @@ Discussion section where you discuss any observations you noted and any recommen
 Conclusion section where you conclude the report.
 3. Your choice of a presentation or blogpost. (10 marks)
 
+Blog: https://wp.me/P6LcRx-3O
+
 Week 1:
 Objective:
 Use clustering algorithm such as KMeans to group together similar neighborhoods
